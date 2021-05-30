@@ -78,7 +78,7 @@ ax = selection['TEMP_C'].plot(
 plt.grid()
 
 # Set output file name
-outputfp = ""
+outputfp = "" 
 
 # Save plot as image
 # YOUR CODE HERE 4
